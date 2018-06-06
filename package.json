@@ -1,0 +1,19 @@
+{
+  "name": "ploy",
+  "version": "0.0.1",
+  "description": "Better way to handle your depps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meain/ploy.git"
+  },
+  "author": "Abin Simon <abinsimon10@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meain/ploy/issues"
+  },
+  "homepage": "https://github.com/meain/ploy#readme"
+}
