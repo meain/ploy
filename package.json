@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/meain/ploy/issues"
   },
-  "homepage": "https://github.com/meain/ploy#readme"
+  "homepage": "https://github.com/meain/ploy#readme",
+  "dependencies": {
+    "blessed": "^0.1.81"
+  }
 }
